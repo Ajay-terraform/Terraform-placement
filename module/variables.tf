@@ -4,17 +4,17 @@
 */
 
 
-/*variable "bucket_name" {
+variable "bucket_name" {
   type = map(object({
     bucket = string
   }))
-}*/
+}
 
 
-/*variable "role" {
+variable "role" {
   type = map(object({
     role = string
   }))
-}*/
+}
 
 
