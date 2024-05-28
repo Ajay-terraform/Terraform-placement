@@ -3,4 +3,5 @@ terraform {
      bucket = "state-file12"
      key = "terraform.tfstate"
      region = "ap-south-1"
+  }
 }
