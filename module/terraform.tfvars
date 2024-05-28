@@ -2,7 +2,7 @@
 */
 
 
-/*bucket_name = {
+bucket_name = {
 
   bucket1 = {
     bucket= "ajjay1"
@@ -13,9 +13,9 @@
   bucket3 = {
     bucket = "ajjay32"
   }
-}*/
+}
 
-/*role ={
+role ={
 role1={
   "role" ="ahaa"   
   },
@@ -25,4 +25,4 @@ role1={
   role3={
   "role" ="ahaa2"   
   }
-}*/
+}
